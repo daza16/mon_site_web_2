@@ -1,0 +1,9 @@
+#top-banner 
+{ 
+    background-color: black ;
+     color : white; 
+     width: 100%;
+     text-align: center;
+     height: 50px;
+     size: 30px;
+}
